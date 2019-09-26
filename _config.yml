@@ -22,8 +22,8 @@ title: Delay-Day UHasselt
 email: maikel.bosschaert@uhasselt.be
 description: >- # this means to ignore newlines until "baseurl:"
   One-day symposium on delay equations in Hasselt
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://benedelay.github.io/delaydayhasselt/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/delaydayhasselt" # the subpath of your site, e.g. /blog
+url: "https://benedelay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mmbosschaert
 
 # Build settings
@@ -52,7 +52,7 @@ plugins:
 #   - vendor/ruby/
 #
 
-port: 4040
+#port: 4040
 
 scholar:
   style: apa
