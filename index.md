@@ -8,7 +8,7 @@ In Utrecht on February 2019 [Odo Diekmann](https://www.uu.nl/medewerkers/ODiekma
 [Stephan van Gils](https://people.utwente.nl/s.a.vangils), [Yuri
 Kuznetsov](https://www.staff.science.uu.nl/~kouzn101/) and [Sjoerd Verduyn
 Lunel](https://www.uu.nl/medewerkers/SMVerduynLunel) organized a one-day meeting
-on **delay equations** in Utrecht. The consensus was that it would be a good idea to
+on **delay equations**. The consensus was that it would be a good idea to
 have an informal regional meeting more regularly, say, twice a year.
 
 In Hasselt on **11 October 2019** is the first such follow-up. It is organized by [Maikel
