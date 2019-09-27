@@ -52,7 +52,7 @@ plugins:
 #   - vendor/ruby/
 #
 
-#port: 4040
+port: 4040
 
 scholar:
   style: apa

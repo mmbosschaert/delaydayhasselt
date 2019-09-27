@@ -2,6 +2,7 @@
 layout: page
 ---
 
+
 # Delay-Day Hasselt 11 October 2019
 
 In Utrecht on February 2019 [Odo Diekmann](https://www.uu.nl/medewerkers/ODiekmann),
@@ -27,3 +28,5 @@ See the [Abstracts](abstracts) for the presenting topics.
 ## Registration
 
 You can register by simply sending an email to one of the organizers mentioned above.
+
+![UHasselt logo](UHasselt-moederlogo.jpg)
