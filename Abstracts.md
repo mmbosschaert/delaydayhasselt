@@ -4,7 +4,7 @@ title: Abstracts
 permalink: /abstracts/
 ---
 
-## Odo Diekmann (Utrecht)
+## [Odo Diekmann (Utrecht)](#diekmann)
 
 ### Twin semigroups and delay equations
 
@@ -21,7 +21,7 @@ integral in the context of a norming dual pair of spaces, as developed by Kunze.
 It exploits that the rule for extension has finite dimensional range and it
 allows to cover unbounded perturbations corresponding to neutral equations.
 
-## Hans-Otto Walther (Giessen)
+## [Hans-Otto Walther (Giessen)](#walther)
 
 ### Density of short solution segments by variable delay
 
@@ -83,7 +83,7 @@ variable then attraction to a periodic orbit is weakened, there are bifurcations
 in the Floquet spectrum, and for sufficiently large variability of the delay the
 periodic orbit becomes unstable, and a period-doubling bifurcation occurs.
 
-## Jan Sieber (Exeter)
+## [Jan Sieber (Exeter)](#sieber)
 
 ### Spectrum of linear time-periodic delay equations in the limit of large delay
 
@@ -93,7 +93,7 @@ second, the case of period close to the delay. The latter case is similar to
 traveling pulses in partial differential equations. The talk will also discuss
 practical issues that occur when trying to compute eigenvalues numerically.
 
-## Thomas Erneux (Brussels)
+## [Thomas Erneux (Brussels)](#erneux)
 
 ### Hopf bifurcation for large delays, isolas of periodic solutions, multi-rhythmicity
 
@@ -112,7 +112,7 @@ feedback may admit several coexisting branches of periodic solutions with
 distinct periods. We review this phenomenon for two different problems in optics
 by comparing experiments and simulations of rate equation models.
 
-## Babette de Wolff (Berlin)
+## [Babette de Wolff (Berlin)](#dewolff)
 
 ### Pseudospectral approximation for Hopf bifurcation of delay equations
 
