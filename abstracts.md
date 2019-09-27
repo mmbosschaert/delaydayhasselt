@@ -4,9 +4,9 @@ title: Abstracts
 permalink: /abstracts/
 ---
 
-## [Odo Diekmann (Utrecht)](#diekmann)
+## Odo Diekmann (Utrecht)
 
-### Twin semigroups and delay equations
+### [Twin semigroups and delay equations](#diekmann)
 
 A delay equation is a rule for extending a function of time towards the future
 on the basis of the (assumed to be) known past. By translation along the
@@ -21,9 +21,9 @@ integral in the context of a norming dual pair of spaces, as developed by Kunze.
 It exploits that the rule for extension has finite dimensional range and it
 allows to cover unbounded perturbations corresponding to neutral equations.
 
-## [Hans-Otto Walther (Giessen)](#walther)
+## Hans-Otto Walther (Giessen)
 
-### Density of short solution segments by variable delay
+### [Density of short solution segments by variable delay](#walther)
 
 Simple-looking autonomous delay differential equations 
 
@@ -74,7 +74,7 @@ the space $C^1([-1,0],\mathbb{R})$.
 
 ## Therese Mur (Santiago de Chile and Giessen)
 
-### The impact of variable delay on the stability of a periodic orbit (poster)
+### [The impact of variable delay on the stability of a periodic orbit (poster)](#mur)
 
 This poster presents results from the author's thesis, which is a case study of
 the impact of variable delay on the stability of a periodic orbit. If in a
@@ -83,9 +83,9 @@ variable then attraction to a periodic orbit is weakened, there are bifurcations
 in the Floquet spectrum, and for sufficiently large variability of the delay the
 periodic orbit becomes unstable, and a period-doubling bifurcation occurs.
 
-## [Thomas Erneux (Brussels)](#erneux)
+## Thomas Erneux (Brussels)
 
-### Hopf bifurcation for large delays, isolas of periodic solutions, multi-rhythmicity
+### [Hopf bifurcation for large delays, isolas of periodic solutions, multi-rhythmicity](#erneux)
 
 For oscillators subject to a delayed feedback, the Hopf bifurcation is singular
 in the limit of large delays. In this limit, the Hopf slow time amplitude
@@ -102,9 +102,9 @@ feedback may admit several coexisting branches of periodic solutions with
 distinct periods. We review this phenomenon for two different problems in optics
 by comparing experiments and simulations of rate equation models.
 
-## [Jan Sieber (Exeter)](#sieber)
+## Jan Sieber (Exeter)
 
-### Spectrum of linear time-periodic delay equations in the limit of large delay
+### [Spectrum of linear time-periodic delay equations in the limit of large delay](#sieber)
 
 The talk will discuss the asymptotics of the spectrum for periodic orbits for
 two cases in the limit of large delay: first, the case of bounded period and,
@@ -112,9 +112,9 @@ second, the case of period close to the delay. The latter case is similar to
 traveling pulses in partial differential equations. The talk will also discuss
 practical issues that occur when trying to compute eigenvalues numerically.
 
-## [Babette de Wolff (Berlin)](#dewolff)
+## Babette de Wolff (Berlin)
 
-### Pseudospectral approximation for Hopf bifurcation of delay equations
+### [Pseudospectral approximation for Hopf bifurcation of delay equations](#dewolff)
 
 Pseudospectral approximation for delay equations was introduced in 2005 by Breda
 et al. as a tool to approximate eigenvalues of delay equations by eigenvalues of
