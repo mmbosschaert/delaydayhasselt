@@ -83,16 +83,6 @@ variable then attraction to a periodic orbit is weakened, there are bifurcations
 in the Floquet spectrum, and for sufficiently large variability of the delay the
 periodic orbit becomes unstable, and a period-doubling bifurcation occurs.
 
-## [Jan Sieber (Exeter)](#sieber)
-
-### Spectrum of linear time-periodic delay equations in the limit of large delay
-
-The talk will discuss the asymptotics of the spectrum for periodic orbits for
-two cases in the limit of large delay: first, the case of bounded period and,
-second, the case of period close to the delay. The latter case is similar to
-traveling pulses in partial differential equations. The talk will also discuss
-practical issues that occur when trying to compute eigenvalues numerically.
-
 ## [Thomas Erneux (Brussels)](#erneux)
 
 ### Hopf bifurcation for large delays, isolas of periodic solutions, multi-rhythmicity
@@ -111,6 +101,16 @@ Multi-rhythmicity is the property that an oscillator subject to a delayed
 feedback may admit several coexisting branches of periodic solutions with
 distinct periods. We review this phenomenon for two different problems in optics
 by comparing experiments and simulations of rate equation models.
+
+## [Jan Sieber (Exeter)](#sieber)
+
+### Spectrum of linear time-periodic delay equations in the limit of large delay
+
+The talk will discuss the asymptotics of the spectrum for periodic orbits for
+two cases in the limit of large delay: first, the case of bounded period and,
+second, the case of period close to the delay. The latter case is similar to
+traveling pulses in partial differential equations. The talk will also discuss
+practical issues that occur when trying to compute eigenvalues numerically.
 
 ## [Babette de Wolff (Berlin)](#dewolff)
 
