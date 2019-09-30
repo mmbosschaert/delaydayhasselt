@@ -38,4 +38,10 @@ Interested researchers and advanced master-students can register by simply sendi
 </table>
 </form>
 
-![UHasselt logo](UHasselt-moederlogo.jpg)
+---
+<br>
+
+{: style="color:gray; font-size: 80%; text-align: center;"}
+[![UHasselt logo](./assets/UHasselt-moederlogo.jpg){:width="208px"}](https://www.uhasselt.be)&nbsp;&nbsp;&nbsp;&nbsp;
+[![FWO Logo](./assets/FWO_Logo_Baseline_Blok_Kleur.jpg){:width="208px"}](https://www.fwo.be)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Doctoral School UHasselt logo](./assets/Doctoral School for Sciences and Technology_LIGGEND.png){:width="208px"}](https://www.uhasselt.be/doctoral-school-sciences-and-technology)
