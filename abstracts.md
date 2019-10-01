@@ -79,19 +79,25 @@ periodic orbit becomes unstable, and a period-doubling bifurcation occurs.
 ### Hopf bifurcation for large delays, isolas of periodic solutions, multi-rhythmicity
 
 For oscillators subject to a delayed feedback, the Hopf bifurcation is singular
-in the limit of large delays. In this limit, the Hopf slow time amplitude
+in the limit of large delays {% cite 1078-0947_2013_7_3109 PhysRevE.92.042903
+--file references_erneux %}. In this limit, the Hopf slow time amplitude
 equation is a delay differential equation by itself with surprising properties.
-We review this particular problem in the light of recent experiments.
+We review this particular problem in the light of recent experiments {% cite
+PhysRevE.99.062219 --file references_erneux %}.
 
 Even if there are no Hopf bifurcations from a basic steady state, isolated
 branches of periodic solutions may coexist with a stable steady state. We
 illustrate this specific phenomenon with the time-delayed FitzHugh-Nagumo
-equations, a minimal model in neurobiology.
+equations, a minimal model in neurobiology {% cite PhysRevE.93.022208 MR3495771
+--file references_erneux %}.
 
 Multi-rhythmicity is the property that an oscillator subject to a delayed
 feedback may admit several coexisting branches of periodic solutions with
 distinct periods. We review this phenomenon for two different problems in optics
-by comparing experiments and simulations of rate equation models.
+by comparing experiments and simulations of rate equation models {% cite
+Friart:14 PhysRevE.91.012910 MR3495771 --file references_erneux %}.
+
+{% bibliography --file references_erneux --cited %}
 
 ## Jan Sieber (Exeter)
 
