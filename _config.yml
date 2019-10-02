@@ -56,3 +56,7 @@ port: 4040
 
 scholar:
   style: apa
+
+scholar:
+  bibtex_filters:
+    - latex
