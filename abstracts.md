@@ -8,9 +8,20 @@ permalink: /abstracts/
 
 ### Twin semigroups and delay equations
 
-A delay equation is a rule for extending a function of time towards the future on the basis of the (assumed to be) known past. By translation along the extended function one defines a dynamical system. In the standard theory, the fundamental solution does not 'live' in the state space. As a consequence, one has to work in order to make the variation-of-constants formula (the main tool for deriving local stability and bifurcation results) operational.
+A delay equation is a rule for extending a function of time towards the future
+on the basis of the (assumed to be) known past. By translation along the
+extended function one defines a dynamical system. In the standard theory, the
+fundamental solution does not 'live' in the state space. As a consequence, one
+has to work in order to make the variation-of-constants formula (the main tool
+for deriving local stability and bifurcation results) operational.
 
-Twin semigroup theory (developed in joint work with Sjoerd Verduyn Lunel) serves to eliminate this anomaly. It builds on ideas of Feller and employs the Pettis integral in the context of a norming dual pair of spaces, as developed by Kunze. It exploits that the rule for extension has finite dimensional range and it allows to cover unbounded perturbations corresponding to neutral equations.
+Twin semigroup theory {% cite twinsemigroups --file references_diekmann %}
+serves to eliminate this anomaly. It builds on ideas of Feller and employs the
+Pettis integral in the context of a norming dual pair of spaces, as developed by
+Kunze. It exploits that the rule for extension has finite dimensional range and
+it allows to cover unbounded perturbations corresponding to neutral equations.
+
+{% bibliography --file references_diekmann --cited %}
 
 ## Hans-Otto Walther (Giessen)
 
