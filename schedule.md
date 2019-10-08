@@ -14,5 +14,7 @@ permalink: /schedule/
 |13:45 | Thomas Erneux| Université Libre de Bruxelles | [Hopf bifurcation for large delays, isolas of periodic solutions, multi-rhythmicity](../abstracts/#thomas-erneux-brussels)   |
 |14:45 | Jan Sieber | University of Exeter | [Spectrum of linear time-periodic delay equations in the limit of large delay](../abstracts/#jan-sieber-exeter) |
 |15:45 | _Coffee and tea break_ |
-|16:00 | Odo Diekmann | Utrecht University | [Twin semigroups and delay equations](../abstracts/#odo-diekmann-utrecht) |
+|16:00 | Odo Diekmann* | Utrecht University | [Twin semigroups and delay equations](../abstracts/#odo-diekmann-utrecht) |
 |17:00 | _Discussion and conclusion_ |
+
+\* In room **OG-Aud1**
